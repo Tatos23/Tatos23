@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdelrahman Mohamed</h1>
 <h3 align="center">Passionate Learner | Computer Engineering Student at the GUC</h3>
 
-
+<h3 align="left">About me:</h3>
 - 🌱 I’m currently learning **React, Flutter**
 
 - 💬 Ask me about **Java, OOP**
