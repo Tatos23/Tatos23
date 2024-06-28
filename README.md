@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **abdelrahmanmohamed237070@gmail.com**
 
-- ⚡ Fun fact **I love diving into code as much as I love diving into the pool!**
+- ⚡ Fun fact **I love diving into code as much as I love diving into the pool! 👨‍💻🏊‍♂️**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
