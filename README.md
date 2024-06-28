@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdelrahman Mohamed</h1>
 <h3 align="center">Passionate Learner | Computer Engineering Student at the GUC</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tatos23&label=Profile%20views&color=0e75b6&style=flat" alt="tatos23" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tatos23" alt="tatos23" /></a> </p>
 
 - 🌱 I’m currently learning **React, Flutter**
 
@@ -26,3 +23,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tatos23&show_icons=true&locale=en" alt="tatos23" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tatos23&" alt="tatos23" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tatos23&label=Profile%20views&color=0e75b6&style=flat" alt="tatos23" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tatos23" alt="tatos23" /></a> </p>
