@@ -25,9 +25,9 @@
 <h3 align="left">📊 Github Stats:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tatos23&show_icons=true&locale=en&layout=compact" alt="tatos23" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tatos23&show_icons=true&locale=en" alt="tatos23" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=tatos23&show_icons=true&locale=en" alt="tatos23" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tatos23&" alt="tatos23" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=tatos23&" alt="tatos23" /></p>
 
 <h3 align="left">🏆 Github Trophies:</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tatos23" alt="tatos23" /></a> </p>
