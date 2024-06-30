@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Java, OOP**
 
-- 📫 You can reach me at**abdelrahmanmohamed237070@gmail.com**
+- 📫 You can reach me at **abdelrahmanmohamed237070@gmail.com**
 
 - ⚡Fun fact:**I love diving into code as much as I love diving into the pool!👨‍💻🏊‍♂️**
 
