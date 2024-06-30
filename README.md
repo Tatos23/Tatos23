@@ -2,9 +2,9 @@
 
 
 
-<h3 align="left">About me:</h3>
+<h3 align="left">💫 About me:</h3>
 
-- I'm a passionate learner | Computer Engineering student at the GUC
+- 💪 I'm a passionate learner | Computer Engineering student at the GUC
   
 - 🌱 I’m currently learning **React**
 
@@ -12,7 +12,7 @@
 
 - 📫 You can reach me at **abdelrahmanmohamed237070@gmail.com**
 
-- ⚡Fun fact:**I love diving into code as much as I love diving into the pool!👨‍💻🏊‍♂️**
+- 🤪 Fun fact:**I love diving into code as much as I love diving into the pool!👨‍💻🏊‍♂️**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
