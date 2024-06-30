@@ -2,7 +2,7 @@
 
 
 
-<h3 align="left">💫✨ About me:</h3>
+<h3 align="left">✨ About me:</h3>
 
 - 💪 I'm a passionate learner | Computer Engineering student at the GUC
   
