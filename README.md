@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Abdelrahman Mohamed</h1>
-<h3 align="center">About me:</h3>
 
 
+
+<h3 align="left">About me:</h3>
 
 - I'm a passionate learner | Computer Engineering student at the GUC
+  
 - 🌱 I’m currently learning **React**
 
 - 💬 Ask me about **Java, OOP**
