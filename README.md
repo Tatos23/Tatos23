@@ -24,10 +24,9 @@
 
 <h3 align="left">📊 Github Stats:</h3>
 
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=tatos23&show_icons=true&locale=en&layout=compact" alt="tatos23" /></p>
 
 <p>&nbsp;<img align="centre" src="https://github-readme-stats.vercel.app/api?username=tatos23&show_icons=true&locale=en" alt="tatos23" /></p> 
-
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=tatos23&show_icons=true&locale=en&layout=compact" alt="tatos23" /></p>
 
 <p><img align="centre" src="https://github-readme-streak-stats.herokuapp.com/?user=tatos23&" alt="tatos23" /></p>
 
