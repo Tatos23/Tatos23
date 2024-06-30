@@ -1,13 +1,14 @@
 <h1 align="center">Hi 👋, I'm Abdelrahman Mohamed</h1>
-<h3 align="center">Passionate Learner | Computer Engineering Student at the GUC</h3>
+<h3 align="center">About me:</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tatos23&label=Profile%20views&color=0e75b6&style=flat" alt="tatos23" /> </p>
-<h3 align="left">About me:</h3>
-- 🌱 I’m currently learning **React, Flutter**
+
+
+- I'm a passionate learner | Computer Engineering student at the GUC
+- 🌱 I’m currently learning **React**
 
 - 💬 Ask me about **Java, OOP**
 
-- 📫 How to reach me **abdelrahmanmohamed237070@gmail.com**
+- 📫 You can reach me at**abdelrahmanmohamed237070@gmail.com**
 
 - ⚡Fun fact:**I love diving into code as much as I love diving into the pool!👨‍💻🏊‍♂️**
 
