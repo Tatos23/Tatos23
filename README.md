@@ -6,7 +6,7 @@
 
 - 💪 I'm a passionate learner | Computer Engineering student at the GUC
   
-- 🌱 I’m currently learning **Mern Stack**
+- 🌱 I’m currently learning **MERN Stack**
 
 - 💬 Ask me about **Java, OOP**
 
