@@ -3,8 +3,8 @@
 
 <h3 align="left">📄 Publications</h3>
 
-- **Design of Wearable-Based Real-Time Stress Detection and Breathing Intervention for Workplace Well-Being** — EAI PervasiveHealth 2025, Springer LNICST 694. Lead author.
-- **Optimization of Multi-AGV Scheduling for Airport Baggage Handling** — ICEENG-IPCS 2026, IEEE. Co-author. [IEEE Xplore](https://doi.org/10.1109/IPCS69631.2026.11604463)
+- **Design of Wearable-Based Real-Time Stress Detection and Breathing Intervention for Workplace Well-Being** - EAI PervasiveHealth 2025, Springer LNICST 694. Lead author.
+- **Optimization of Multi-AGV Scheduling for Airport Baggage Handling** - ICEENG-IPCS 2026, IEEE. Co-author. [IEEE Xplore](https://doi.org/10.1109/IPCS69631.2026.11604463)
 
 - 👨‍💻 All of my projects are available at [https://abdelrahman-ewida.vercel.app/](https://abdelrahman-ewida.vercel.app/)
 
