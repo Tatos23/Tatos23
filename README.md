@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdelrahman Ewida</h1>
 <h3 align="center">Computer Engineering Graduate @ GUC · AI/ML Researcher</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tatos23" alt="tatos23" /></a> </p>
-
 <h3 align="left">📄 Publications</h3>
 
 - **Design of Wearable-Based Real-Time Stress Detection and Breathing Intervention for Workplace Well-Being** — EAI PervasiveHealth 2025, Springer LNICST 694. Lead author.
