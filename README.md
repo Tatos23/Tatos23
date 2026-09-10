@@ -8,11 +8,9 @@
 
 - 👨‍💻 A selection of my projects is available at [https://abdelrahman-ewida.vercel.app/](https://abdelrahman-ewida.vercel.app/)
 
-- 💬 Ask me about **Java, Python, Machine Learning, Microservices**
+- 💬 Ask me about **ML Research and Human-Centered AI**
 
 - 📫 How to reach me **abdelrahmanmohamed237070@gmail.com**
-
-- 📄 Know about my experiences [https://abdelrahman-ewida.vercel.app/](https://abdelrahman-ewida.vercel.app/)
 
 - ⚡ Fun fact **I love diving into code as much as I love diving into the pool 👨‍💻🏊‍♂️**
 
